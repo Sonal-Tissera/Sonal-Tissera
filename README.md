@@ -1,4 +1,8 @@
-# Hello Universe 👋
+# Hello Universe
+
+### [GenCosmos](https://www.gencosmos.com)
+### Artificial Intelligence, Physics
+
 
 <!--
 **Sonal-Tissera/Sonal-Tissera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
