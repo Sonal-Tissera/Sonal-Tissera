@@ -1,7 +1,7 @@
 # Hello Universe
 
 ### [GenCosmos](https://www.gencosmos.com)
-### Artificial Intelligence, Physics
+### Artificial Intelligence, Mathematics, and Physics
 
 
 <!--
